@@ -1,0 +1,61 @@
+h1{
+    background-color:  cadetblue;
+    text-align: center;
+    width:20%;
+    border-radius: 10px;
+    box-shadow: 0px 7px 7px rgb(152, 207, 209) ;
+}
+button{
+    border: none;
+}
+#order{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    box-shadow: 0px 7px 7px rgb(44, 44, 44);
+}
+a{
+font-size: x-large;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+#head{
+    margin-left: 500px;
+}
+.img{
+margin-left: 10px;
+width: 300px;
+}
+.nav-item{
+display: flex;
+margin-top: -50px;
+justify-content: space-around;
+}
+#food{
+margin-left: 500px;
+}
+#link{
+    margin-top: 50px;
+}
+#item{
+    margin-top: 40px;
+}
+#submit{
+    background-color: cadetblue;
+    border: none;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    font-weight: bold;
+    text-transform: capitalize;
+    box-shadow: 0px 7px 7px rgb(152, 207, 209) ;
+}
+#first-row,#sec-row,#th-row,#f-row{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
